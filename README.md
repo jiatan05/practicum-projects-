@@ -5,7 +5,7 @@ They are splitted into three main categories: Python for Data Science, Machine L
 
 | Project               | Description                                                                                 | Libraries                      |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
-|[Yandex Music Analysis](https://github.com/jiatan05/yandex-practicum-projects/tree/project-1 "Yandex Music Analysis")|compare music preferences and test hypothese using basic python|*pandas, ntlk*|
+|[Yandex Music Analysis](https://github.com/jiatan05/yandex-practicum-projects-/tree/main/project-1 "Yandex Music Analysis")|compare music preferences and test hypothese using basic python|*pandas, ntlk*|
 |[Credit Score Analysis](https://github.com/jiatan05/yandex-practicum-projects/tree/project-2 "Credit Score Analysis")|Utilizing different metrics to determine the likelihood that a customer defaults on a loan|*pandas, ntlk*|
 |[Vehicle Price Analysis](https://github.com/jiatan05/yandex-practicum-projects/tree/project-3 "Vehicle Price Analysis")|Studying vehicle ads to determine what factors influence vehicle price|*pandas, matplotlib, numpy*|
 |[Phone Plan Analysis](https://github.com/jiatan05/yandex-practicum-projects/tree/project-4 "Phone Plan Analysis")|Selecting the plan with the highest potential revenue for different target markets and conducting hypothesis testing|*pandas, matplotlib, scipy, numpy, nltk*|
