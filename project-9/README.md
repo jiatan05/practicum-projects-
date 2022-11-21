@@ -13,6 +13,6 @@
 3. Writing a function to calculate net revenue generated using selected oil wells and model predictions as parameters
 4. Calculating risks and profit for each oil well region.
 
-## Libraries used:
+## Libraries:
 
 *panda, numpy, matplotlib, seaborn, sklearn*
