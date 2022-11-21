@@ -1,4 +1,4 @@
-# DATA
+# Data
 - 'userID' — user identifier
 - 'Track' — track title
 - 'artist' — artist's name
