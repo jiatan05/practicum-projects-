@@ -18,4 +18,4 @@ Identifying trends and patterns to determine game genres with the highest potent
 
 ## Libraries used:
 
-*pandas, numpy, math ,scipy, matplotlib, nltk*
+*pandas, numpy, math, scipy, matplotlib, nltk*
