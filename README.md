@@ -1,6 +1,6 @@
 
-# Practicum by Yandex Projects
-These are Data Science projects completed during the Data Science training course in Practicum by Yandex.
+# Practicum Projects
+These are Data Science projects completed during the Data Science training course in Practicum.
 They are splitted into three main categories: Python for Data Science, Machine Learning, and Neural Networks & advanced techniques
 
 | Project               | Description                                                                                 | Libraries                      |
